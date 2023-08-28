@@ -14,8 +14,8 @@ This console application allows you to determine if two kangaroos can meet based
 # Running the App
 
 1. Compile and run the app by entering the following commands:
-     dotnet build
-     dotnet run
+   - dotnet build
+   - dotnet run
 1. Follow the prompts to enter the starting positions and jump rates of the kangaroos.
 2. The app will display whether the kangaroos can meet or not.
    
